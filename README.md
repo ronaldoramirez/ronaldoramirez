@@ -44,3 +44,8 @@ My name is Ronaldo, I'm from Guatemala and I'm a JR back-end developer.
 
 [linkedin](https://www.linkedin.com/in/ronaldoperencen/)
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/ronaldoramirez/count.svg" />
+</p>
+
