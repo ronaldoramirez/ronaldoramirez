@@ -2,7 +2,7 @@
 
 My name is Ronaldo, I'm from Guatemala and I'm a JR back-end developer.
 
-* Currently working for [sihasistema.com](https://github.com/sihaysistema) as a JR back-end developer.
+* Currently working for [Tomza Group](https://www.tomzasureste.com/empresarial.html) as a Developer Web SR.
 
 ----
 
