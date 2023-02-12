@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-My name is Ronaldo, I'm from Guatemala and I'm a JR back-end developer.
+My name is Ronaldo, I'm from Guatemala and I'm a Developer Web.
 
 * Currently working for [Tomza Group](https://www.tomzasureste.com/empresarial.html) as a Developer Web SR.
 
